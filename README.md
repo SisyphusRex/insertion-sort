@@ -6,5 +6,13 @@ Each new element is compared to the previous elements in the sorted list and put
 ## Complexity
 
 ### Best Case
+O(n)  
+Ω(n)  
+Θ(n)  
+
+### Average Case
 
 ### Worst Case
+O(n^2)  
+Ω(n^2)  
+Θ(n^2)  
