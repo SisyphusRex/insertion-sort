@@ -6,13 +6,16 @@ Each new element is compared to the previous elements in the sorted list and put
 ## Complexity
 
 ### Best Case
+all elements are sorted, look at each once  
 O(n)  
 Ω(n)  
 Θ(n)  
 
 ### Average Case
 
+
 ### Worst Case
+no elements are sorted, each one must be compared to (n-1) elements
 O(n^2)  
 Ω(n^2)  
 Θ(n^2)  
